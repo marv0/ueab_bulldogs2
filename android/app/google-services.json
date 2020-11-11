@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "290151811695",
+    "firebase_url": "https://bulldogs-d2778.firebaseio.com",
+    "project_id": "bulldogs-d2778",
+    "storage_bucket": "bulldogs-d2778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290151811695:android:14bb92b2ee3169dfc49b9a",
+        "android_client_info": {
+          "package_name": "com.example.basketball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290151811695-ivhsidv0n9n4uvgkkksrfm25ca8bf8ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basketball",
+            "certificate_hash": "549bdf86bcbf7387eb8dfa689861033dd237d221"
+          }
+        },
+        {
+          "client_id": "290151811695-3k5jv2u685n6e39c4ngh91a4nd6kcsdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwZ1g6qvjVMzGhExu9sdyZgDi8cbrSCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290151811695-3k5jv2u685n6e39c4ngh91a4nd6kcsdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290151811695:android:9cbdaa00b7919705c49b9a",
+        "android_client_info": {
+          "package_name": "com.example.ueabbulldogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290151811695-hb61r1skc07l5vet68ld1kl8g1ltfjtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ueabbulldogs",
+            "certificate_hash": "549bdf86bcbf7387eb8dfa689861033dd237d221"
+          }
+        },
+        {
+          "client_id": "290151811695-3k5jv2u685n6e39c4ngh91a4nd6kcsdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwZ1g6qvjVMzGhExu9sdyZgDi8cbrSCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290151811695-3k5jv2u685n6e39c4ngh91a4nd6kcsdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
